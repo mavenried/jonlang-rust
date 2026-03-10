@@ -4,5 +4,5 @@ jon, say "Height in meters: " and read into height as number!
 jon, say "Weight in kg: " and read into weight as number!
 jon, remember that bmi will be weight by height!
 jon, remember that bmi will be bmi by height!
-jon, say "Your BMI is :" and read aloud bmi!
+jon, say "Your BMI is :" and bmi aloud!
 bye, jon!

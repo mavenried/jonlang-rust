@@ -134,3 +134,4 @@ jonlang keeps programming intentionally simple:
 * Arithmetic uses natural keywords like `plus` and `times`
 
 Behind the scenes, jonlang programs are compiled into bytecode and executed by a small virtual machine.
+To see this bytecode, append `--debug` to the end of the command

@@ -6,8 +6,8 @@ authors = ["Joseph Chacko <josephchacko2006@gmail.com>"]
 license = "MIT OR Apache-2.0"
 description = "basic scripting language made to learn rust"
 readme = "README.md"
-homepage = "https://github.com/maverik-io"
-repository = "https://github.com/maverik-io/jonlang-rust"
+homepage = "https://github.com/mavenried"
+repository = "https://github.com/mavenried/jonlang-rust"
 keywords = ["scripting", "jonlang"]
 categories = ["compilers"]
 
